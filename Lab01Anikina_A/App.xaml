@@ -1,0 +1,9 @@
+﻿<Application x:Class="NaUKMA.CSharp2024.Lab01Anikina_A.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NaUKMA.CSharp2024.Lab01Anikina_A"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
